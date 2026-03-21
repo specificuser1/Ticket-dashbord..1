@@ -9,7 +9,7 @@ $settings = json_decode(file_get_contents("settings.json"), true);
 <title>Ticket Bot Dashboard</title>
 <style>
     body {
-        background:url('https://images.unsplash.com/photo-1520880867055-1e30d1cb001c?auto=format') no-repeat center center fixed;
+        background:url('https://www.pinterest.com/pin/801640802450581975/') no-repeat center center fixed;
         background-size:cover;
         font-family:Poppins,Arial;
         color:white;
