@@ -1,5 +1,9 @@
 {
-    "ticket_category": 0,
-    "staff_role": 0,
-    "transcripts": true
+  "categories": [],
+  "staff_role": 0,
+  "transcripts": true,
+  "ticket_panel_message": {
+    "title": "",
+    "description": ""
+  }
 }
