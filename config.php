@@ -1,4 +1,4 @@
 <?php
-$secret_key = "Warrior_ticket_1828_jussb_uwshsj_premium_bot_2026";
-$settings_file = "../settings.json";
+$secret_key = "YOUR_SECRET_KEY";
+$settings_file = __DIR__ . "/settings.json";
 ?>
